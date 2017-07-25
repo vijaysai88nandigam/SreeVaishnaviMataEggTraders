@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bargav:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bargav_jar</output-path>
+    <root id="archive" name="bargav.jar">
+      <element id="module-output" name="bargav" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Jars/pdfbox-app-2.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Jars/jdatepicker-1.3.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
